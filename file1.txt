@@ -12,4 +12,8 @@ DIVYU
 
 BRANCH1!
 
+<<<<<<< HEAD
 branch One again
+=======
+github
+>>>>>>> master
